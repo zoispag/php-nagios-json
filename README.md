@@ -1,9 +1,5 @@
-PHP Nagios JSON
-===============
+# PHP Nagios JSON
 
-Script to parse Nagios status.dat and present it as JSON,
-to allow inclusion of status info in a web page served
-from a separate machine.
+Script to parse Nagios v.4 Status.dat and present it as JSON.
 
-The code is just a modification of Jason Antman's statusXML.php available at
-https://github.com/jantman/php-nagios-xml.
+Forked from Christian Lizell's `php-nagios-json` available at https://github.com/lizell/php-nagios-json.
